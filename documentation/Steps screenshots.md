@@ -31,3 +31,7 @@
 ### CircleCI_2
 
 [![7-circle-CI-2.png](https://i.postimg.cc/260fYy5B/7-circle-CI-2.png)](https://postimg.cc/BLPzcqHq)
+
+### CircleCI_3
+
+[![8-circle-CI-3.png](https://i.postimg.cc/jdpxpm3j/8-circle-CI-3.png)](https://postimg.cc/MvYJRPSk)
